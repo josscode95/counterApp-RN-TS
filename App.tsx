@@ -4,7 +4,6 @@ import { ContadorScreen } from "./src/screens/ContadorScreen";
 
 export const App = () => {
   return (
-    // <HolaMundoScreen />
     <ContadorScreen />
   )
 }
